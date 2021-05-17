@@ -9,3 +9,5 @@
 ## Outside of writing everything to the console, what is a better way to debug your code?
 
 - The debugger keyword used in your script file can help step through your code to find where or why it may not be having its intended result.
+
+#### https://blipsett.github.io/Rock-Paper-Scissors/

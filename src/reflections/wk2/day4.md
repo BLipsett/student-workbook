@@ -9,3 +9,5 @@
 ## From the entire article what are your biggest takeaways?
 
 - The biggest takeaway for me was the "best-practice" section. To not get caught up doing what is so called the "best-practice" and focus on what you can do best and then strive for doing better.
+
+#### https://blipsett.github.io/slap-game/
