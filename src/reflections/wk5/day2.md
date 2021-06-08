@@ -9,3 +9,5 @@
 ### What are some of the challenges faced when deciding how to manage a many-to-many relationship that ultimately drive your decision on how to create it?
 
 - You may have to perform multiple queries for one desired value. How many items in each collection might help deterimine hpw ypu create it.
+
+## https://github.com/BLipsett/summer21-megslist
